@@ -21,3 +21,7 @@
 
 - Changing the URL from `github.com...` to `github.dev...`
     - Or pressing the `.` on keyboard
+- Opening `Explorer` to select the file that you want to edit
+    - Choosing `Source Control` to update the file
+    - Moving cursor to `Changes` and pressing `+` which means `Stage All Changes`
+    - Typing any word in Message and selecting `✓` which means `Commit`
