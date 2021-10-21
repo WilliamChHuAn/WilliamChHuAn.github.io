@@ -19,7 +19,7 @@
 
 ## Update the web page
 
-- Changing the URL from `github.com...` to `github.dev...`
+- Changing the URL from `github.com/...` to `github.dev/...`
     - Or pressing the `.` on keyboard
 - Opening `Explorer` to select the file that you want to edit
     - Choosing `Source Control` to update the file
