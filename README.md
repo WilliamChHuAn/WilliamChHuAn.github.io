@@ -5,3 +5,19 @@
     - Using pure HTML & CSS
 
 ## How to
+
+1. Having a GitHub account
+2. Right Top: `+`
+3. Choosing `New repository`
+4. Repository name: `your_username.github.io`
+5. Entering repository
+6. Choosing `Add file`
+7. Choosing `Create new file`
+8. Name your file...: `index.html`
+9. Choosing `Commit new file` on the Bottom
+10. Finally, Go to `https://your_username.github.io/`
+
+## Update the web page
+
+- Changing the URL from `github.com...` to `github.dev...`
+    - Or pressing the `.` on keyboard
