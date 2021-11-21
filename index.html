@@ -2,6 +2,13 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <html>
+	<script>
+		$(document).ready(function() {
+			$("h1").delay(1000).animate({"opacity": "100%"}, 500);
+		//   $("h1").addClass("animated bounce");
+		//   $("img").addClass("animated shake");
+		});
+	</script>
 	<style>
 		body{
 			background-image: url("https://wallpaperaccess.com/full/1124103.jpg");
@@ -47,12 +54,5 @@
 				<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" style="width: 100px; height: inherit;">
 			</a>
 		</div>
-		<script>
-			$(document).ready(function() {
-				$("h1").animate({ "opacity": "100%" }, 500);
-			//   $("h1").addClass("animated bounce");
-			//   $("img").addClass("animated shake");
-			});
-		</script>
 	</body>
 </html>
